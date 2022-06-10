@@ -30,7 +30,7 @@
     "biblatex-csl-converter": "^1.9.1",
     "clipboard": "^2.0.6",
     "diff-match-patch": "^1.0.4",
-    "fuse.js": "^6.0.4",
+    "fuse.js": "^6.6.2",
     "js-yaml": "^3.13.1",
     "lodash.debounce": "^4.0.8",
     "lodash.uniqby": "^4.7.0",
